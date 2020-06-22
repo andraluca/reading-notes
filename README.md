@@ -1,4 +1,4 @@
-# My learning Journal for June 22, 2020
+# My learning Journal for June 22
 
 1.  **Growth Mindset** - a few things I understand about the growth mindset:
   - it is the opposite of a fixed mindset
