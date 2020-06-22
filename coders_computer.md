@@ -8,7 +8,7 @@ Choosing a Text Editor is an important place to start your coding journey.  Ther
 
 Options to choose from:
 
-1.  text editors that come with your computer:  very basic, not ideal
+1.  text editors that come with your computer:  very basic, not ideal, such as TextEdit or NotePad
 2.  third party options - each equipped with great features - such as:
     1.  NotePad++
     2.  Sublime Text
