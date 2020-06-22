@@ -9,7 +9,7 @@
 4.  The actual syntax I am hoping needs not be memorized.  I presume some commands will be easier to remember than others, and none without lots of practice.  
 
 
-# My learning Journal for June 22
+# My first Lab:
 
 1.  **Growth Mindset** - a few things I understand about the growth mindset:
   - it is the opposite of a fixed mindset
