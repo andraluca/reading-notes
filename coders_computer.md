@@ -22,8 +22,8 @@ Options to choose from:
 
 ## Shortcuts
 
-* Ctrl + A | Go to the beginning of the line you are currently typing on
-* Ctrl + E | Go to the end of the line you are currently typing on
+Ctrl + A | Go to the beginning of the line you are currently typing on
+Ctrl + E | Go to the end of the line you are currently typing on
 * Ctrl + U | Clear the line before the cursor
 * Ctrl + K | Clear the line after the cursor
 * Ctrl + W | Delete the word before the cursor
