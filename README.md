@@ -1,18 +1,12 @@
-#PLEASE NOTE THAT I HAVE MY READING ASSIGNEMTN AND LAB IN THE SAME LOCATION, FOR THE LAB PLEASE SCROLL DOWN.
+# My first reading assignment:
 
-##READING ASSIGNMENT:  Read: 01 - Learning Markdown
+1.  **GitHub** is a great place to learn basic coding and to see what others are doing which may prove not only helpful but inspirational at the same time
 
-1. GitHub is a great place to learn basic coding and to see what others are doing which may prove not only helpful but inspirational at the same time.
+2.  They even include a quick reference list of their *syntax*.
 
-2.  They even include a quick reference list of their syntax.
+3.  Markdown is essentially is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
 
-https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text
-
-3. Markdown is essentially is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in
-
-4. The actual syntax I am hoping needs not be memorized.  I presume some commands will be easier to remember than others, and none without lots of practice.  
-
-
+4.  The actual syntax I am hoping needs not be memorized.  I presume some commands will be easier to remember than others, and none without lots of practice.  
 
 
 # My learning Journal for June 22
