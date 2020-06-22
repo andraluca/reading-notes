@@ -18,14 +18,18 @@ Options to choose from:
     6.  BB Edit  
 
 
-# My first Lab:
+# Reading assignment 02 - Cheat Sheet for basic terminal usage
 
-1.  **Growth Mindset** - a few things I understand about the growth mindset:
-  - it is the opposite of a fixed mindset
-  - it is a constructive mindset that leads to growth
-  - it is a mindset that leads to creativity because it it not afraid to fail
-  
-2.  **Growth Practice**  -  I tend to fall within more of a fixed mindset, and *growing away* from that is a practice I tend to every day
-  - When I start feeling uncomfortable when faced with being about to fail, I remind myself that I am presented with an opportunity for learning.
-  - I am actively seeking dead ends when I have time on my hands just to practice what it feels like to have to retrace my steps.
-  - I am happy to learn from others' successes and accept that behing behind those with more experience is precisely the right place to be.
+Key/Command	Description
+Tab	Auto-complete files and folder names
+Ctrl + A	Go to the beginning of the line you are currently typing on
+Ctrl + E	Go to the end of the line you are currently typing on
+Ctrl + U	Clear the line before the cursor
+Ctrl + K	Clear the line after the cursor
+Ctrl + W	Delete the word before the cursor
+Ctrl + T	Swap the last two characters before the cursor
+Esc + T	Swap the last two words before the cursor
+Ctrl + R	Lets you search through previously used commands
+Ctrl + L or Command + K	Clears the Screen
+Ctrl + C	Kill whatever you are running
+Ctrl + D	Exit the current shell
