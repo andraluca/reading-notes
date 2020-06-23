@@ -1,14 +1,3 @@
-# My first reading assignment:
-
-1.  **GitHub** is a great place to learn basic coding and to see what others are doing which may prove not only helpful but inspirational at the same time
-
-2.  They even include a quick reference list of their **syntax**.
-
-3.  Markdown is essentially is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
-
-4.  The actual syntax I am hoping needs not be memorized.  I presume some commands will be easier to remember than others, and none without lots of practice.  
-
-
 # My first Lab:
 
 1.  **Growth Mindset** - a few things I understand about the growth mindset:
