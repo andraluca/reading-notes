@@ -1,4 +1,4 @@
-# Reading assignment 02 - Choosing a Text Editor
+# Lab assignment 02 - Choosing a Text Editor
 
 Choosing a Text Editor is an important place to start your coding journey.  There are plenty of options, and you just need to decide which is your prefered flavor. The editor will help a coder run and manage text.  Here are some important features to look for:
 1.  code completion
@@ -18,7 +18,7 @@ Options to choose from:
     6.  BB Edit  
 
 
-# Reading assignment 02 - Cheat Sheet for basic terminal usage
+# Reading assignment 02 - Cheat Sheets for basic terminal usage
 
 ## Shortcuts
 
@@ -69,3 +69,5 @@ rm -i [file]	| Will display prompt before
 cp [file] [newfile]	| Copy file to file
 cp [file] [dir]	| Copy file to directory
 mv [file] [new filename]	| Move/Rename, e.g. mv -v [file] [dir]
+
+###I suggest printing and old-school taping the most useful commands someplace easy to spot, it will save time.  
