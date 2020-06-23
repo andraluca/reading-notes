@@ -2,21 +2,21 @@
 
 Choosing a Text Editor is an important place to start your coding journey.  There are plenty of options, and you just need to decide which is your prefered flavor. The text editor will help a coder run and manage text.  There is no right or wrong text editor, it is just a matter of trying them out until you find what you like.  Some say it is worth keeping your eyes peeled for new features in various editors, you might be inspired to use different editors back and forth to keep with the constant updates.  Here are some important features to look for:
 
-1.  code completion
-2.  syntax highlighting
-3.  theme variety
-4.  variety of add-on extensions
+    1.  code completion
+    2.  syntax highlighting
+    3.  theme variety
+    4.  variety of add-on extensions
 
 Options to choose from:
 
-1.  text editors that come with your computer:  very basic, not ideal, such as TextEdit or NotePad
-2.  third party options - each equipped with great features - such as:
-    1.  NotePad++
-    2.  Sublime Text
-    3.  Brackets
-    4.  Atom
-    5.  Visual Studio Code
-    6.  BB Edit  
+    1.  text editors that come with your computer:  very basic, not ideal, such as TextEdit or NotePad
+    2.  third party options - each equipped with great features - such as:
+        1.  NotePad++
+        2.  Sublime Text
+        3.  Brackets
+        4.  Atom
+        5.  Visual Studio Code
+        6.  BB Edit  
 
 
 # Reading assignment 02 - Cheat Sheets for basic terminal usage
