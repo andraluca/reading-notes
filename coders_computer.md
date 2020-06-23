@@ -35,3 +35,26 @@ Ctrl + R | Lets you search through previously used commands
 Ctrl + L or Command + K | Clears the Screen
 Ctrl + C | Kill whatever you are running
 Ctrl + D | Exit the current shell
+
+## Core Commands
+
+COMMAND | DESCRIPTION
+------- | -----------
+cd	| Home directory
+cd [folder]	| Change directory
+cd ~ | Home directory, e.g. ‘cd ~/folder/’
+cd /	| Root of drive
+ls	| Short listing
+ls -l	| Long listing
+ls -a	| Listing incl. hidden files
+ls -lh	| Long listing with Human readable file sizes
+ls -R	| Entire content of folder recursively
+sudo [command]	| Run command with the security privileges of the superuser (Super User DO)
+open [file]	| Opens a file
+open .	Opens the directory
+top	Displays active processes. Press q to quit
+nano [file]	Opens the Terminal it’s editor
+pico [file]	Opens the Terminal it’s editor
+q	Exit
+clear	Clear screen
+
