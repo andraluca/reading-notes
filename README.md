@@ -1,11 +1,5 @@
-# My first Lab:
+# My name is Andra Luca, I am a student with CodeFellows in Coding 102.
 
-1.  **Growth Mindset** - a few things I understand about the growth mindset:
-  - it is the opposite of a fixed mindset
-  - it is a constructive mindset that leads to growth
-  - it is a mindset that leads to creativity because it it not afraid to fail
-  
-2.  **Growth Practice**  -  I tend to fall within more of a fixed mindset, and *growing away* from that is a practice I tend to every day
-  - When I start feeling uncomfortable when faced with being about to fail, I remind myself that I am presented with an opportunity for learning.
-  - I am actively seeking dead ends when I have time on my hands just to practice what it feels like to have to retrace my steps.
-  - I am happy to learn from others' successes and accept that behing behind those with more experience is precisely the right place to be.
+## Here is an updated table of contents to show my work.
+
+[Growth Mindset](growthmindset.md)
