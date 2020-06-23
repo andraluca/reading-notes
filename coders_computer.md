@@ -72,4 +72,4 @@ cp [file] [newfile]	| Copy file to file
 cp [file] [dir]	| Copy file to directory
 mv [file] [new filename]	| Move/Rename, e.g. mv -v [file] [dir]
 
-### I suggest printing and old-school taping the most useful commands someplace easy to spot, it will save time.  
+### I suggest printing and old-school taping the most useful commands someplace easy to spot, it will save time.
