@@ -38,4 +38,11 @@ Added elements include:
 
 # Extra Markup - Chapter 8
 
-MAKE SURE YOU FINISH THIS SECTION OF THE HOMEWORK
+This capter covers topics that are in a category of their own.
+
+1.  different versions of HTML need indicating respective version
+2.  adding comments to code
+3.  discussion on elements that are used to group parts of the page
+4.  how to embed a page within a page with iFrames
+5. how to use meta elements
+6.  adding special characters such as angled brackets or copyright symbols
