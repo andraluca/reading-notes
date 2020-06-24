@@ -15,3 +15,7 @@ Tuesday June 23
 [Git Intro](reading_class3.md)
 
 [Structure Webpages with HTML](reading_class4.md)
+
+Wednesday June 24
+
+[CSS Summary and Intro to Color](reading_class5.md)
