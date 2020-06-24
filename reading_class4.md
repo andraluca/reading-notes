@@ -1,4 +1,3 @@
-reading_class4.md
 # Process and Design - Chapter 18
 
 This reading assignment covers a process that may be used whenever a new website is created.
