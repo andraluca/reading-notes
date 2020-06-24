@@ -2,8 +2,16 @@
 
 ## Here is an updated table of contents to show my work.
 
+Monday June 22
+
 [Growth Mindset](growthmindset.md) 
 
 [Mastering Markdown](reading_class1.md)
 
 [Coder's Computer](coders_computer.md)
+
+Tuesday June 23
+
+[Git Intro](reading_class3.md)
+
+[Structure Webpages with HTML](reading_class4.md)
