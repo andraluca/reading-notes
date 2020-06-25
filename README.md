@@ -27,3 +27,5 @@ Wednesday June 24
 Thursday June 25
 
 [Programming with JavaScript](read7.md)
+
+[Operators and Loops](read8.md)
