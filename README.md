@@ -22,4 +22,4 @@ Wednesday June 24
 
 [WRITTING SCRIPTS](read6a.md)
 
-[How Computers Work]()
+[How Computers Work](computers.md)
