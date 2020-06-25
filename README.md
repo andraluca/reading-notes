@@ -20,4 +20,4 @@ Wednesday June 24
 
 [CSS Summary and Intro to Color](reading_class5.md)
 
-[WRITTING SCRIPTS]()
+[WRITTING SCRIPTS](read6a.md)
