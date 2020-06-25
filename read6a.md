@@ -20,5 +20,3 @@ Rules for naming a variable:
 - case sensitive
 - use names that are meaningful
 - if made up of more than one word, capitalize subsequent words
-
-ARRAYS
