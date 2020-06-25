@@ -23,3 +23,7 @@ Wednesday June 24
 [WRITTING SCRIPTS](read6a.md)
 
 [How Computers Work](computers.md)
+
+Thursday June 25
+
+[Programming with JavaScript](read7.md)
